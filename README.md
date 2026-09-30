@@ -52,6 +52,7 @@ Allows the status of a complaint to be changed to Pending, In Progress, or Resol
 5.5 Main Menu
 
 Provides options to access different features and exit the program.
+
 6. Installation and Setup
 
 Step 1: Install Python
